@@ -1,45 +1,50 @@
 
-import gen.MoolaListener;
-import gen.MoolaParser;
 import org.antlr.v4.runtime.ParserRuleContext;
 import org.antlr.v4.runtime.tree.ErrorNode;
 import org.antlr.v4.runtime.tree.TerminalNode;
 
 public class ProgramPrinter implements MoolaListener{
-
+    private String mainClassName;
     @Override
     public void enterProgram(MoolaParser.ProgramContext ctx) {
-
+        System.out.println("program start{");
     }
 
     @Override
     public void exitProgram(MoolaParser.ProgramContext ctx) {
+        System.out.println("}");
 
     }
 
     @Override
-    public void enterClassDeclaration(MoolaParser.ClassDeclarationContext ctx) {
-
+    public void enterClassDeclaration(MoolaParser.ClassDeclarationContext ctx)
+    {
+        if(!ctx.className.getText().equals(mainClassName))
+            System.out.println("class: " + ctx.className.getText() + "{");
     }
 
     @Override
     public void exitClassDeclaration(MoolaParser.ClassDeclarationContext ctx) {
-
+        if(!ctx.className.getText().equals(mainClassName))
+            System.out.println(" }");
     }
 
     @Override
     public void enterEntryClassDeclaration(MoolaParser.EntryClassDeclarationContext ctx) {
-
+        mainClassName = ctx.classDeclaration().className.getText();
+        System.out.println("Main Class: " + mainClassName + "{") ;
     }
 
     @Override
     public void exitEntryClassDeclaration(MoolaParser.EntryClassDeclarationContext ctx) {
+        System.out.println(" }");
 
     }
 
     @Override
     public void enterFieldDeclaration(MoolaParser.FieldDeclarationContext ctx) {
-
+        System.out.println("field:" + ctx.fieldName.getText() + "/type= " + ctx.fieldType.getText() +
+                "/acess modifier= " + ctx.fieldAccessModifier.getText());
     }
 
     @Override
@@ -59,11 +64,15 @@ public class ProgramPrinter implements MoolaListener{
 
     @Override
     public void enterMethodDeclaration(MoolaParser.MethodDeclarationContext ctx) {
+        System.out.print("Class method: " + ctx.methodName.getText() + "/ return type=" + ctx.t.getText());
+        String access_modifier = ctx.methodAccessModifier == null ? "public" : ctx.methodAccessModifier.getText();
+        System.out.println("/ access modifier=" + access_modifier + "{");
 
     }
 
     @Override
     public void exitMethodDeclaration(MoolaParser.MethodDeclarationContext ctx) {
+        System.out.println("   }");
 
     }
 
@@ -119,6 +128,7 @@ public class ProgramPrinter implements MoolaListener{
 
     @Override
     public void enterStatementVarDef(MoolaParser.StatementVarDefContext ctx) {
+        System.out.println("var: " + ctx.i1.getText());
 
     }
 
@@ -199,7 +209,6 @@ public class ProgramPrinter implements MoolaListener{
 
     @Override
     public void enterStatementAssignment(MoolaParser.StatementAssignmentContext ctx) {
-
     }
 
     @Override
@@ -219,7 +228,6 @@ public class ProgramPrinter implements MoolaListener{
 
     @Override
     public void enterStatementDec(MoolaParser.StatementDecContext ctx) {
-
     }
 
     @Override

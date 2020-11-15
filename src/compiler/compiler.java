@@ -1,12 +1,8 @@
-import gen.MoolaBaseListener;
-import gen.MoolaLexer;
-import gen.MoolaListener;
-import gen.MoolaParser;
 import org.antlr.v4.runtime.CharStream;
+import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.CommonTokenStream;
 import org.antlr.v4.runtime.TokenStream;
 import org.antlr.v4.runtime.tree.ParseTree;
-import org.antlr.v4.runtime.CharStreams;
 import org.antlr.v4.runtime.tree.ParseTreeWalker;
 
 import java.io.IOException;
@@ -20,7 +16,7 @@ public class compiler {
         parser.setBuildParseTree(true);
         ParseTree tree = parser.program();
         ParseTreeWalker walker = new ParseTreeWalker();
-        MoolaListener listener = new MoolaBaseListener();
+        MoolaListener listener = new ProgramPrinter();
         walker.walk(listener , tree);
     }
 }
