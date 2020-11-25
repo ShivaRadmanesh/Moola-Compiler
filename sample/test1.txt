@@ -1,0 +1,18 @@
+program start{
+    main class: Smaple2{
+        field: a/ type=int/ acess modifier=private
+        class method: main/ return type=int/ access modifier=public{
+            var: b
+        }
+    }
+    class: Sahar{
+        field: avg/ type=int/ acess modifier=private
+        class method: mark/ return type=int/ access modifier=public{
+        }
+        class method: series/ return type=int/ access modifier=public{
+        }
+        class method: studyHour/ return type=int/ access modifier=private{
+            var: binayi
+        }
+    }
+}

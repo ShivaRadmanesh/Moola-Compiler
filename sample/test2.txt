@@ -1,0 +1,14 @@
+program start{
+    main class: MainClass{
+        field: a/ type=int/ acess modifier=private
+        class method: main/ return type=int/ access modifier=public{
+            var: a
+        }
+    }
+    class: binarySearch{
+        field: a/ type=int/ acess modifier=private
+        class method: main/ return type=int/ access modifier=public{
+            var: a
+        }
+    }
+}

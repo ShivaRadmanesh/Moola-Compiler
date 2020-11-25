@@ -1,0 +1,49 @@
+entry class Smaple2:
+    private field a int;
+    function main() returns int:
+        var b = 1;
+        while( b > 3) begin
+            print( b + 1);
+            b++;
+        end
+
+        //blah blah
+
+        saharMark = new Sahar().mark(89, 99);
+        saharStudyHour = new Sahar().studyHour();
+
+        return 0;
+    end
+end
+
+class Sahar:
+    private field avg int;
+
+    public function mark(binayi : int, riz : int) returns int:
+        if( vision == 89 ) begin
+                vision = 79;
+        end
+        if( riz == 20 ) begin
+            print("100 bit for you");
+        end
+        return 0;
+    end
+
+    public function series(bujack : int, friends : int) returns int:
+        while(bujack > 0) begin
+            bujack--;
+        end
+        while( 1==1 ) begin
+            friends++;
+        end
+        return 1;
+    end
+
+    private function studyHour() returns int:
+        var binayi = 0;
+        while( 1==1 ) begin
+            binayi++;
+        end
+        return binayi;
+    end
+end
