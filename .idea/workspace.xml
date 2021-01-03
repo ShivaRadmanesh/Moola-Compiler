@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dbffb35e-ed56-439f-a337-22ee486a5b96" name="Default Changelist" comment="" />
+    <list default="true" id="d545749c-e5c6-4b6d-9af3-ac948282b955" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaBaseListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaBaseVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaLexer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$Access_modifierContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ClassDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ClosedConditionalContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ClosedStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$EntryClassDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionAddContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionAddTempContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionAndContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionAndTempContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionCmpContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionCmpTempContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionEqContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionEqTempContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionMethodsContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionMethodsTempContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionMultModContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionMultModTempContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionOrContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionOrTempContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionOtherContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ExpressionUnaryContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$FieldDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$MethodDeclarationContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$MoolaTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$OpenConditionalContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$OpenStatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$ProgramContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$SingleTypeContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementAssignmentContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementBlockContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementBreakContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementClosedLoopContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementContinueContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementDecContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementIncContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementOpenLoopContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementReturnContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementVarDefContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser$StatementWriteContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/MoolaVisitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/ProgramPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/compiler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/test.mla" beforeDir="false" afterPath="$PROJECT_DIR$/sample/test.mla" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compiler/compiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compiler/compiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gen/MoolaParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gen/MoolaParser.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,140 +70,226 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
-          <entry key="g4" value="1" />
-          <entry key="java" value="3" />
-          <entry key="mla" value="4" />
-          <entry key="tokens" value="1" />
+          <entry key="Scope" value="1" />
+          <entry key="class" value="6" />
+          <entry key="g4" value="2" />
+          <entry key="interp" value="1" />
+          <entry key="java" value="42" />
+          <entry key="kt" value="1" />
+          <entry key="mla" value="5" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="ANTLR v4 grammar file" value="1" />
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="3" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="ANTLR v4 grammar file" value="2" />
+          <entry key="CLASS" value="6" />
+          <entry key="JAVA" value="42" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1619" />
-          <entry key="mla" value="286" />
+          <entry key="java" value="7321" />
+          <entry key="kt" value="1" />
+          <entry key="mla" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1619" />
-          <entry key="PLAIN_TEXT" value="286" />
+          <entry key="JAVA" value="7321" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/compiler/ProgramPrinter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="76" column="79" lean-forward="true" selection-start-line="76" selection-start-column="79" selection-end-line="76" selection-end-column="79" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#277#278#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gen/MoolaParser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="215" column="63" selection-start-line="215" selection-start-column="63" selection-end-line="215" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/antlr-4.8-complete.jar!/org/antlr/v4/runtime/ParserRuleContext.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/text.mla">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Moola.g4">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/compiler/compiler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/test1.mla">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sample/test.mla">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/gen/MoolaLexer.tokens">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.57081544">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/compiler/ProgramObjects.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="241">
+                  <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#578#579#0" expanded="true" />
+                    <element signature="e#617#618#0" expanded="true" />
+                    <element signature="e#5056#5057#0" expanded="true" />
+                    <element signature="e#5090#5091#0" expanded="true" />
+                    <element signature="e#6822#6823#0" expanded="true" />
+                    <element signature="e#6848#6849#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/compiler/compiler.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="13" column="68" lean-forward="true" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/compiler/ProgramPrinter.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="307">
+                  <caret line="55" column="21" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="21" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/Scope.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="420">
+                  <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+                  <folding>
+                    <element signature="e#287#288#0" expanded="true" />
+                    <element signature="e#323#324#0" expanded="true" />
+                    <element signature="e#355#356#0" expanded="true" />
+                    <element signature="e#384#385#0" expanded="true" />
+                    <element signature="e#570#571#0" expanded="true" />
+                    <element signature="e#615#616#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/TableObject.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="337">
+                  <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#478#479#0" expanded="true" />
+                    <element signature="e#510#511#0" expanded="true" />
+                    <element signature="e#541#542#0" expanded="true" />
+                    <element signature="e#568#569#0" expanded="true" />
+                    <element signature="e#629#630#0" expanded="true" />
+                    <element signature="e#662#663#0" expanded="true" />
+                    <element signature="e#711#712#0" expanded="true" />
+                    <element signature="e#755#756#0" expanded="true" />
+                    <element signature="e#700#701#0" expanded="true" />
+                    <element signature="e#742#743#0" expanded="true" />
+                    <element signature="e#781#782#0" expanded="true" />
+                    <element signature="e#813#814#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/sample/Samples/Sample3.mla">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="235">
+                  <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/DefClass.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#147#148#0" expanded="true" />
+                    <element signature="e#205#206#0" expanded="true" />
+                    <element signature="e#249#250#0" expanded="true" />
+                    <element signature="e#285#286#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/sample/test.mla">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="280">
+                  <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Moola.g4">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1200">
+                  <caret line="98" column="19" selection-start-line="98" selection-end-line="98" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/ScopeType.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/Variable.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/gen/MoolaParser.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="79">
+                  <caret line="1500" column="24" selection-start-line="1500" selection-start-column="24" selection-end-line="1500" selection-end-column="24" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>programCon</find>
-      <find>statement</find>
-      <find>StatementWrite</find>
-      <find>statementVarDef</find>
-      <find>main</find>
-      <find>var</find>
-      <find>access</find>
+      <find>int</find>
+      <find>classDecla</find>
+      <find>inherits</find>
+      <find>enterStatementVarDef</find>
+      <find>param2</find>
+      <find>block</find>
+      <find>varD</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,70 +298,82 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sample/text.mla" />
-        <option value="$PROJECT_DIR$/sample/test1.mla" />
-        <option value="$PROJECT_DIR$/src/compiler/ProgramPrinter.java" />
+        <option value="$PROJECT_DIR$/src/compiler/programObject.java" />
+        <option value="$PROJECT_DIR$/src/compiler/Internal objects/Scope.kt" />
+        <option value="$PROJECT_DIR$/src/compiler/Internal objects/Scope.java" />
+        <option value="$PROJECT_DIR$/src/compiler/Internal objects/SymbolTable.java" />
+        <option value="$PROJECT_DIR$/src/compiler/Internal objects/ValueObject.java" />
+        <option value="$PROJECT_DIR$/src/compiler/SymbolTable.java" />
+        <option value="$PROJECT_DIR$/src/compiler/TableObject.java" />
+        <option value="$PROJECT_DIR$/src/gen/MoolaParser.java" />
+        <option value="$PROJECT_DIR$/src/compiler/ExternalClasses/Scope.java" />
+        <option value="$PROJECT_DIR$/src/compiler/ExternalClasses/ObjectType.java" />
+        <option value="$PROJECT_DIR$/src/compiler/ExternalClasses/AccessModifier.java" />
+        <option value="$PROJECT_DIR$/sample/test.mla" />
+        <option value="$PROJECT_DIR$/src/compiler/ExternalClasses/TableObject.java" />
+        <option value="$PROJECT_DIR$/src/compiler/ExternalClasses/ScopeType.java" />
+        <option value="$PROJECT_DIR$/src/compiler/ExternalClasses/SymbolTable.java" />
+        <option value="$PROJECT_DIR$/src/compiler/ExternalClasses/Method.java" />
+        <option value="$PROJECT_DIR$/src/compiler/ExternalClasses/Field.java" />
+        <option value="$PROJECT_DIR$/src/compiler/ExternalClasses/Variable.java" />
+        <option value="$PROJECT_DIR$/src/compiler/ProgramObjects.java" />
+        <option value="$PROJECT_DIR$/src/compiler/ExternalClasses/DefClass.java" />
         <option value="$PROJECT_DIR$/src/compiler/compiler.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
+    <option name="width" value="91" />
     <option name="height" value="900" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="sample" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="compiler" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="project" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="project" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="gen" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="project" type="58d84e3e:PackageViewProjectNode" />
-              <item name="project" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="Samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="compiler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="ExternalClasses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,13 +382,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="import&#9;ACTION&#9;WelcomeScreen.ImportProject" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606303017102" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1609704348755" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -251,7 +400,7 @@
   <component name="RunManager">
     <configuration name="compiler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="compiler" />
-      <module name="project" />
+      <module name="project1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -267,18 +416,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dbffb35e-ed56-439f-a337-22ee486a5b96" name="Default Changelist" comment="" />
-      <created>1605466346381</created>
+      <changelist id="d545749c-e5c6-4b6d-9af3-ac948282b955" name="Default Changelist" comment="" />
+      <created>1609503140409</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1605466346381</updated>
+      <updated>1609503140409</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3297568" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14449213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -287,28 +437,28 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32961586" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34324658" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Tool Output" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32961586" />
-      <window_info anchor="bottom" id="ANTLR Preview" order="11" sideWeight="0.49928468" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="11" weight="0.14498141" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32961586" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24964234" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -317,16 +467,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3450065" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Tool Output" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32961586" />
-      <window_info anchor="bottom" id="ANTLR Preview" order="11" sideWeight="0.49928468" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32961586" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -345,78 +495,260 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/compiler/compiler.java</url>
-          <line>13</line>
+          <url>file://$PROJECT_DIR$/src/gen/MoolaParser.java</url>
+          <line>127</line>
           <properties />
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/gen/MoolaParser.java</url>
+          <line>135</line>
+          <properties field="c3" class="MoolaParser.ProgramContext" />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sample/text.mla">
+    <entry file="file://$PROJECT_DIR$/src/gen/MoolaBaseVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="60">
+          <caret line="4" column="71" lean-forward="true" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/gen/MoolaLexer.tokens">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gen/MoolaParser.java">
+    <entry file="file://$PROJECT_DIR$/src/gen/MoolaBaseListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="215" column="63" selection-start-line="215" selection-start-column="63" selection-end-line="215" selection-end-column="63" />
+        <state relative-caret-position="135">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen/MoolaLexer.interp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2068" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen/MoolaListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4905">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/programObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/compiler/Internal objects/Scope.kt" />
+    <entry file="file://$PROJECT_DIR$/src/compiler/Internal objects/Scope" />
+    <entry file="file://$PROJECT_DIR$/src/compiler/Internal objects/Scope.java" />
+    <entry file="file://$PROJECT_DIR$/src/compiler/Internal objects/ValueObject.java" />
+    <entry file="file://$PROJECT_DIR$/src/compiler/Internal objects/SymbolTable.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/antlr-4.8-complete.jar!/org/antlr/v4/runtime/RuleContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/antlr-4.8-complete.jar!/org/antlr/v4/runtime/ParserRuleContext.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="270">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+          <folding>
+            <element signature="e#6955#6956#0" expanded="true" />
+            <element signature="e#6988#6989#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample/test.mla">
+    <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/AccessModifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/text.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/ObjectType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/test2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/SymbolTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/antlr-4.8-complete.jar!/org/antlr/v4/runtime/Token.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/TableObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+          <folding>
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample/test1.mla">
+    <entry file="file://$PROJECT_DIR$/src/gen/MoolaLexer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
+        <state relative-caret-position="-1515">
+          <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/compiler/ProgramPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="76" column="79" lean-forward="true" selection-start-line="76" selection-start-column="79" selection-end-line="76" selection-end-column="79" />
+        <state relative-caret-position="307">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/Scope.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gen/MoolaParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="1500" column="24" selection-start-line="1500" selection-start-column="24" selection-end-line="1500" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Moola.g4">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="1200">
+          <caret line="98" column="19" selection-start-line="98" selection-end-line="98" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/test.mla">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/ScopeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/ExternalClasses/DefClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/compiler/compiler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+        <state relative-caret-position="60">
+          <caret line="13" column="68" lean-forward="true" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample/Samples/Sample3.mla">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/compiler/ProgramObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#5056#5057#0" expanded="true" />
+            <element signature="e#5090#5091#0" expanded="true" />
+            <element signature="e#6822#6823#0" expanded="true" />
+            <element signature="e#6848#6849#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -424,81 +756,9 @@
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>project</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>antlr-4.8-complete</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

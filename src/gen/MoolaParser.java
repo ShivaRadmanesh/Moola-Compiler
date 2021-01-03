@@ -128,7 +128,9 @@ public class MoolaParser extends Parser {
 		_interp = new ParserATNSimulator(this,_ATN,_decisionToDFA,_sharedContextCache);
 	}
 
-	public static class ProgramContext extends ParserRuleContext {
+	public static class
+
+	ProgramContext extends ParserRuleContext {
 		public ClassDeclarationContext c1;
 		public EntryClassDeclarationContext mainclass;
 		public ClassDeclarationContext c3;

@@ -25,7 +25,7 @@ entry class Sample1 :
 end
 
 
-class BinarySearch :
+class BinarySearch inherits Hi:
     private field data int[];
 
     private function doSearch( value : int , _begin : int , _end : int ) returns int:
